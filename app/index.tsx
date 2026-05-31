@@ -12,10 +12,10 @@ export default function Home() {
       </Text>
 
       <TextInput
-        placeholder="Username"
+        placeholder="Username or Access Card"
         style={{
           borderWidth: 1,
-          borderColor: "#0a6e3f",
+          borderColor: "#249835",
           padding: 10,
           marginBottom: 10,
           backgroundColor: "white",
@@ -28,7 +28,7 @@ export default function Home() {
         secureTextEntry
         style={{
           borderWidth: 1,
-          borderColor: "#0a6e3f",
+          borderColor: "#249835",
           padding: 10,
           marginBottom: 20,
           backgroundColor: "white",
@@ -40,7 +40,7 @@ export default function Home() {
         onPress={() => Alert.alert("Login Button pressed")}
         style={{
           backgroundColor: "#0a6e3f",
-          padding: 12,
+          padding: 14,
           marginBottom: 10,
           borderRadius: 6
         }}
