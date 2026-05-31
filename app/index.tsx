@@ -8,7 +8,7 @@ export default function Home() {
     <View style={{ flex: 1, justifyContent: "center", padding: 20, backgroundColor: "#f2f2f2" }}>
 
       <Text style={{ fontSize: 24, textAlign: "center", marginBottom: 20, color: "#0a6e3f", fontWeight: "bold" }}>
-        TD Bank Login
+        TD Mobil Login
       </Text>
 
       <TextInput
